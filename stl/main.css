@@ -59,3 +59,9 @@ body {
     padding: 10px;
     text-align: center;
 }
+.bottom {
+    background: linear-gradient(#002002, #000000);
+    color: white;
+    text-align: center; 
+    padding: 10px;
+}
